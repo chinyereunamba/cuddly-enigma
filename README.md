@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [View site](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/chinyereunamba/cuddly-enigma)
+- Live Site URL: [View site](https://lustrous-selkie-2ae084.netlify.app/)
 
 ## My process
 
